@@ -1,4 +1,4 @@
-# 0513_photo
+# 0513_photoPicker
 
 오픈소스 YPImagePicker 활용 photoPicker
 
