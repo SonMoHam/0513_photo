@@ -1,0 +1,6 @@
+framework module Pods_0513_photo {
+  umbrella header "Pods-0513_photo-umbrella.h"
+
+  export *
+  module * { export * }
+}
